@@ -5,7 +5,9 @@ import org.apache.hadoop.hive.ql.exec.Description;
 import org.apache.hadoop.hive.ql.exec.UDF;
 import org.apache.hadoop.hive.ql.udf.UDFType;
 import org.apache.hadoop.io.Text;
+/*Testing Hive UDF
 
+ */
 @UDFType(deterministic=false)
 @Description(name="uuid", value="uuid() - returns a 36 digit UUID", extended="Example:\n > SELECT uuid(),* FROM tablename;")
 public class UUIDGenerator
