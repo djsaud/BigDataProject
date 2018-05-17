@@ -1,0 +1,9 @@
+com/airline/project/kafka/KafkaAirlineProducer$DemoCallBack.class
+com/airline/project/kafka/KafkaAirlineMain.class
+com/techno/project/kafka/WtransactionData.class
+com/airline/project/pigudf/UUIDGenerator.class
+com/airline/project/kafka/KafkaAirlineProducer.class
+com/techno/project/kafka/GenerateSampleJsonData.class
+com/techno/project/kafka/KafkaProducer.class
+com/airline/project/kafka/KafkaAirlineProperties.class
+com/airline/project/hive/udf/UUIDGenerator.class
